@@ -1,4 +1,4 @@
-package springboot.domain.posts;
+package com.shion.book.springboot.domain.posts;
 
 import com.shion.book.springboot.domain.posts.Posts;
 import com.shion.book.springboot.domain.posts.PostsRepository;

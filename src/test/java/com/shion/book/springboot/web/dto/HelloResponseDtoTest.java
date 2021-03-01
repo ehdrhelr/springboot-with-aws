@@ -1,4 +1,4 @@
-package springboot.web.dto;
+package com.shion.book.springboot.web.dto;
 
 import com.shion.book.springboot.web.dto.HelloResponseDto;
 import org.junit.jupiter.api.Test;

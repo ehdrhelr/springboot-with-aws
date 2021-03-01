@@ -1,4 +1,4 @@
-package springboot.web;
+package com.shion.book.springboot.web;
 
 import com.shion.book.springboot.web.HelloController;
 import org.apache.catalina.security.SecurityConfig;
