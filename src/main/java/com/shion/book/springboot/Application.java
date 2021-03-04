@@ -2,9 +2,9 @@ package com.shion.book.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
-@EnableJpaRepositories("com.shion.book.springboot.domain.posts")
+@EnableJpaAuditing
 @SpringBootApplication
 public class Application {
 
